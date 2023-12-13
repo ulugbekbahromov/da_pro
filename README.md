@@ -1,5 +1,6 @@
-# Data Engineering Pet Projects
-### Small Data Engineering projects from Datacamp
+# Data Analysis Projects
+Data Analysis projects from Datacamp platform using Python 
+<br>and its libraries, i.e. Numpy, Pandas, Matplotlib and PostgreSQL.
 
 - ['Analyze International Debt Statistics (sql)'](/Analyze%20International%20Debt%20Statistics%20(sql)/notebook.ipynb)
 - ['Analyzing American Baby Name Trends (sql)'](/Analyzing%20American%20Baby%20Name%20Trends%20(sql)/notebook.ipynb)
